@@ -45,7 +45,7 @@ A Python project that scrapes the latest sports news articles, summarizes them u
 
 ## Project Structure
 ```
-first/
+SportsNewsSummarizer/
 ├── app.py           # Streamlit app for displaying the summary
 ├── one.py           # Main script for scraping and summarizing
 ├── scraped_articles.csv  # Raw scraped articles (auto-generated)
