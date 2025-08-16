@@ -22,7 +22,6 @@ A Python project that scrapes the latest sports news articles, summarizes them u
 2. Install dependencies:
 
    ```
-   ```sh
    pip install playwright beautifulsoup4 python-dotenv google-generativeai streamlit
    playwright install
    ```
