@@ -1,4 +1,4 @@
-# SportsNewsSummarizer
+# Sports News Summarizer
 
 A Python project that scrapes the latest sports news articles, summarizes them using Google Gemini AI, and displays the results in a beautifully formatted markdown report via Streamlit.
 
@@ -16,8 +16,8 @@ A Python project that scrapes the latest sports news articles, summarizes them u
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/SportsNewsSummarizer.git
-   cd SportsNewsSummarizer/first
+   git clone https://github.com/Gopika-3747/AI-News-Report-Summarizer.git
+   cd SportsNewsSummarizer
    ```
 2. Install dependencies:
 
