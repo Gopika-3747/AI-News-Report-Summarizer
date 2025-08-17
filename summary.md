@@ -1,111 +1,86 @@
-# Top 5 Sports News Report
+# Sports News Update
 
-### 1. Delhi Premier League (DPL) T20 2025 Update
-
-The second edition of the Delhi Premier League, a franchise-based T20 cricket tournament, is underway from August 2 to August 31, 2025. All matches are being held at the Arun Jaitley Stadium in New Delhi.
-
-**Key Information:**
-*   **Teams:** 8 teams representing different zones of Delhi.
-*   **Format:** Round-robin, where each team plays every other team twice. The top 4 teams will advance to the knockouts.
-*   **Total Matches:** 44 league games followed by playoffs.
-*   **Current Leaders:** East Delhi Riders are at the top of the table, followed closely by Central Delhi Kings.
-
-**Points Table (as of August 16, 2025)**
-
-| Rank | Teams | Mat | Won | Lost | NR | Pts | NRR |
-| :--- | :--- | :-- | :-: | :-: | :-: | :-: | :--- |
-| 1 | East Delhi Riders | 7 | 5 | 1 | 1 | 11 | +0.085 |
-| 2 | Central Delhi Kings | 5 | 4 | 0 | 1 | 9 | +3.059 |
-| 3 | North Delhi Strikers | 4 | 3 | 1 | 0 | 6 | +0.422 |
-| 4 | South Delhi Superstarz | 6 | 2 | 3 | 1 | 5 | -1.922 |
-| 5 | West Delhi Lions | 5 | 2 | 3 | 0 | 4 | +0.468 |
-| 6 | Purani Dilli 6 | 5 | 2 | 3 | 1 | 4 | +0.895 |
-| 7 | Outer Delhi Warriors | 7 | 1 | 5 | 1 | 3 | -0.041 |
-| 8 | New Delhi Tigers | 5 | 1 | 4 | 0 | 2 | -0.602 |
-
-**Recent Results**
-*   **Aug 15:** South Delhi Superstarz won by 3 wickets vs Outer Delhi Warriors.
-*   **Aug 12:** Central Delhi Kings won by 12 runs vs Outer Delhi Warriors.
-*   **Aug 12:** East Delhi Riders won by 5 wickets vs Purani Dilli 6.
+Here's a concise summary of the latest sports news:
 
 ---
 
-### 2. Pressure Mounts on Arsenal for 2025/26 Premier League Title
-
-After finishing as Premier League runners-up for three consecutive years, the 2025/26 season is being framed as a "now or never" moment for manager Mikel Arteta and Arsenal to secure a major trophy.
+## Cricket: Pakistan's Asia Cup Squad and India Rivalry
 
 **Key Points:**
-*   **High Expectations:** Having consistently challenged for the title, anything less than winning it this season may be seen as a failure.
-*   **Strategic Summer Signings:** The club has been proactive in the transfer market to bolster the squad.
-    *   **Viktor Gyokeres:** A prolific striker from Sporting CP signed to provide a reliable source of goals.
-    *   **Martin Zubimendi:** An upgrade in the midfield.
-    *   **Noni Madueke:** Adds depth and a different attacking threat from the wing.
-*   **Team Stability:** Compared to rivals undergoing significant changes, Arsenal's squad is viewed as settled and cohesive, giving them a strong foundation for the season.
-*   **Arteta's Final Phase:** The manager has built the team over five and a half years, and this season is seen as the culmination of his long-term project.
+*   Pakistan's chief selector Aaqib Javed has made a bold claim that the new-look Pakistan T20 team can defeat India in the upcoming Asia Cup 2025.
+*   Notable absentees from the 17-member squad include star players Babar Azam and Mohammad Rizwan, with the management focusing on "fresh faces" and "upcoming talents."
+*   Director of Cricket Mike Hesson justified the selection, highlighting a mix of experience and youth, five frontline seamers, and two mystery spinners tailored for UAE conditions.
+*   The Asia Cup is set to begin on September 9, with Pakistan in Group A alongside India, Oman, and hosts UAE.
 
 ---
 
-### 3. Premier League Kick-off: Manchester United vs. Arsenal Preview
+## Football: Newcastle United's Striker Search
 
-Manchester United will host Arsenal at Old Trafford on August 17 to open their 2025/26 Premier League campaign. Both clubs have been active in the transfer market and are looking to start the season strong.
-
-**Match Details:**
-*   **Date:** Sunday, August 17, 2025
-*   **Time:** 9:00 PM IST
-*   **Venue:** Old Trafford, Manchester
-
-**Team News & Predicted Lineups**
-
-| | **Manchester United** | **Arsenal** |
-| :--- | :--- | :--- |
-| **Key Signings** | Benjamin Sesko, Bryan Mbeumo, Matheus Cunha | Viktor Gyokeres, Martin Zubimendi, Noni Madueke |
-| **Key Injuries** | Lisandro Martínez (ACL, long-term), Andre Onana (hamstring, doubt) | Gabriel Jesus (ACL, long-term), Leandro Trossard (groin, doubt) |
-| **Predicted XI** | **(3-4-2-1)** Onana (GK); Yoro, Maguire, Shaw; Amad Diallo, Fernandes, Casemiro, Dorgu; Mbuemo, Mount; Cunha | **(4-3-3)** Raya (GK); White, Saliba, Gabriel, Lewis-Skelly; Odegaard, Zubimendi, Rice; Saka, Gyokeres, Martinelli |
+**Key Points:**
+*   Newcastle United is actively seeking a new striker after star player Alexander Isak reportedly refused to play amid links to Liverpool.
+*   Brentford's Yoane Wissa is a prime target for Newcastle. Brentford manager Keith Andrews confirmed Wissa's absence from their Premier League opener against Nottingham Forest, noting his situation is "day-by-day" and hinting at his desire to leave the club.
+*   Newcastle began their Premier League campaign with a goalless draw against Aston Villa.
 
 ---
 
-### 4. Premier League Preview: Nottingham Forest vs. Brentford
+## Football: Arsenal's Premier League Opener
 
-Nottingham Forest and Brentford face off at the City Ground on August 17. Forest are looking to build on their 7th-place finish and return to European football, while Brentford enters a new era under new management.
-
-**Match Details:**
-*   **Date:** Sunday, August 17, 2025
-*   **Time:** 6:30 PM IST
-*   **Venue:** City Ground, Nottingham
-
-**Team News & Predicted Lineups**
-
-| | **Nottingham Forest** | **Brentford** |
-| :--- | :--- | :--- |
-| **Key Signings** | Igor Jesus, Jair Cunha, Dan Ndoye | Caoimhin Kelleher, Jordan Henderson, Michael Kayode |
-| **Key Injuries** | Nicolas Dominguez (knee, out) | Vitaly Janelt (ankle, out), Gustavo Nunes (thigh, out), Kelleher, Pinnock, Schade (all doubts) |
-| **Predicted XI** | **(4-2-3-1)** Sels (GK); Aina, Milenkovic, Murilo, Williams; Yates, Anderson; Ndoye, Gibbs-White, Hudson-Odoi; Wood | **(4-3-3)** Kelleher (GK); Kayode, Collins, Van den Berg, Henry; Jensen, Yarmoliuk; Carvalho, Damsgaard, Lewis-Potter; Thiago |
+**Key Points:**
+*   Arsenal secured a battling 1-0 victory against Manchester United at Old Trafford in their 2025/26 Premier League campaign opener.
+*   The winning goal came in the 13th minute from Riccardo Calafiori, following a costly error by United goalkeeper Altay Bayındır.
+*   Despite the win, Arsenal manager Mikel Arteta urged his players to "stay humble," acknowledging it was far from a vintage performance with only three shots on target.
+*   This result further extends Arteta's strong record against Manchester United as Arsenal boss.
 
 ---
 
-### 5. Andhra Premier League (APL) T20 2025 Update
+## Football: Viktor Gyokeres' Arsenal Debut Under Scrutiny
 
-The fourth edition of the Andhra Premier League (APL), a T20 tournament organized by the Andhra Cricket Association, is running from August 8 to August 23, 2025. All matches are being played at the Dr. YSR ACA-VDCA Stadium in Visakhapatnam.
+**Key Points:**
+*   New Arsenal striker Viktor Gyokeres received criticism for his performance during his Premier League debut against Manchester United.
+*   Former Premier League manager Alan Pardew described Gyokeres' display as "poor" and "underwhelming."
+*   Gyokeres was substituted around the 60-minute mark, having failed to record a single shot or complete more than four passes during his time on the field.
 
-**Key Information:**
-*   **Teams:** 7 teams (expanded from 6 in previous editions).
-*   **Format:** Round-robin, with each team playing the others once, followed by playoffs for the top 4.
-*   **Total Matches:** 25 matches in total.
-*   **Current Leaders:** Amaravati Royals lead the table with a perfect record so far.
+---
 
-**Points Table (as of August 16, 2025)**
+## Cricket: The Hundred Men's Competition 2025 Overview
 
-| Rank | Team | Matches | Win | Loss | NR | Points | NRR |
-| :--- | :--- | :--- | :-: | :-: | :-: | :-: | :--- |
-| 1 | Amaravati Royals | 3 | 3 | 0 | 0 | 6 | +0.512 |
-| 2 | Vijayawada Sunrisers | 4 | 2 | 1 | 1 | 5 | +0.532 |
-| 3 | Tungabhadra Warriors | 4 | 2 | 2 | 1 | 4 | +0.254 |
-| 4 | Bhimavaram Bulls | 4 | 1 | 2 | 1 | 3 | +0.355 |
-| 5 | Royals of Rayalaseema | 4 | 1 | 2 | 1 | 3 | -0.366 |
-| 6 | Simhadri Vizag Lions | 4 | 1 | 2 | 1 | 3 | -1.032 |
-| 7 | Kakinada Kings | 3 | 1 | 2 | 0 | 2 | -0.450 |
+**Key Points:**
+*   The fifth season of The Hundred, England and Wales' 100-ball cricket tournament, is underway, running from August 5 to 31.
+*   Eight city-based franchises are competing across major venues.
+*   The competition features 32 group stage matches, with each team playing four home and four away games.
+*   The top three teams from the league stage qualify for the knockouts: the 2nd and 3rd placed teams play an eliminator, and the winner proceeds to the final against the top-ranked team.
 
-**Recent Results**
-*   **Aug 15:** Bhimavaram Bulls vs Tungabhadra Warriors - **Tungabhadra won by 13 runs**.
-*   **Aug 13:** Vijayawada Sunrisers vs Bhimavaram Bulls - **No Result due to rain**.
-*   **Aug 13:** Royals of Rayalaseema vs Tungabhadra Warriors - **Rayalaseema won by 51 runs**.
+**The Hundred Men's Competition 2025 Schedule & Results (Partial)**
+
+| Match | Date          | Team                        | Time (BST) | Time (IST) | Result                         |
+| :---- | :------------ | :-------------------------- | :--------- | :--------- | :----------------------------- |
+| 1     | Tue, 05 Aug '25 | London Spirit vs Oval Invincibles | 6:30 p.m.  | 11:00 p.m. | Oval Invincibles won by 6 wickets |
+| 2     | Wed, 06 Aug '25 | Manchester Originals vs Southern Brave | 6:30 p.m.  | 11:00 p.m. | Southern Brave won by 1 wicket  |
+| 3     | Thu, 07 Aug '25 | Northern Superchargers vs Welsh Fire | 6:30 p.m.  | 11:00 p.m. | Northern Superchargers won by 8 wickets |
+| 4     | Fri, 08 Aug '25 | Birmingham Phoenix vs Trent Rockets | 6:30 p.m.  | 11:00 p.m. | Trent Rockets won by 6 wickets  |
+| 5     | Sat, 09 Aug '25 | Oval Invincibles vs Manchester Originals | 2:30 p.m.  | 7:00 p.m.  | Oval Invincibles won by 9 wickets |
+| 6     | Sat, 09 Aug '25 | Welsh Fire vs London Spirit | 6:00 p.m.  | 10:30 p.m. | London Spirits won by 9 runs    |
+| 7     | Sun, 10 Aug '25 | Southern Brave vs Birmingham Phoenix | 2:30 p.m.  | 7:00 p.m.  | Southern Brave won by 9 wickets |
+| 8     | Sun, 10 Aug '25 | Trent Rockets vs Northern Superchargers | 6:00 p.m.  | 10:30 p.m. | Trent Rockets won by 5 wickets  |
+| 9     | Mon, 11 Aug '25 | Manchester Originals vs London Spirit | 6:30 p.m.  | 11:00 p.m. | Manchester Originals won by 10 runs |
+| 10    | Tue, 12 Aug '25 | Birmingham Phoenix vs Oval Invincibles | 6:30 p.m.  | 11:00 p.m. | Birmingham Phoenix won by 4 wickets |
+| 11    | Wed, 13 Aug '25 | Southern Brave vs Northern Superchargers | 3:00 p.m.  | 7:30 p.m.  | Northern Superchargers won by 3 wickets |
+| 12    | Wed, 13 Aug '25 | Welsh Fire vs Manchester Originals | 6:30 p.m.  | 11:00 p.m. | Welsh Fire won by 25 runs       |
+| 13    | Thu, 14 Aug '25 | London Spirit vs Trent Rockets | 6:30 p.m.  | 11:00 p.m. | London Spirit won by 21 runs    |
+| 14    | Fri, 15 Aug '25 | Northern Superchargers vs Birmingham Phoenix | 6:30 p.m.  | 11:00 p.m. | Northern Superchargers won by 36 runs |
+| 15    | Sat, 16 Aug '25 | Trent Rockets vs Southern Brave | 2:30 p.m.  | 7:00 p.m.  | Trent Rockets won by 4 wickets  |
+| 16    | Sat, 16 Aug '25 | Oval Invincibles vs Welsh Fire | 6:00 p.m.  | 10:30 p.m. | Oval Invincibles won by 83 runs |
+| 17    | Sun, 17 Aug '25 | Manchester Originals vs Northern Superchargers | 2:30 p.m.  | 7:00 p.m.  | Manchester Originals won by 57 runs |
+
+**The Hundred Men's Competition 2025 Points Table (Current)**
+
+| Teams                  | Mat | Won | Lost | Tied | NR | Pts | NRR      |
+| :--------------------- | :-- | :-- | :--- | :--- | :-- | :-- | :------- |
+| Oval Invincibles       | 4   | 3   | 1    | 0    | 0  | 12  | +2.752   |
+| Trent Rockets          | 4   | 3   | 1    | 0    | 0  | 12  | +0.407   |
+| Northern Superchargers | 5   | 3   | 2    | 0    | 0  | 12  | -0.088   |
+| Southern Brave         | 4   | 2   | 2    | 0    | 0  | 8   | +0.252   |
+| Manchester Originals   | 5   | 2   | 3    | 0    | 0  | 8   | -0.253   |
+| London Spirit          | 4   | 2   | 2    | 0    | 0  | 8   | -0.342   |
+| Welsh Fire             | 4   | 1   | 3    | 0    | 0  | 4   | -1.104   |
+| Birmingham Phoenix     | 4   | 1   | 3    | 0    | 0  | 4   | -1.303   |
