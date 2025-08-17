@@ -182,7 +182,7 @@ def scrape_sportingnews():
 
 def summarize(content):
     genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
-    model = genai.GenerativeModel('gemini-2.5-pro')
+    model = genai.GenerativeModel('gemini-2.5-flash')
 
     user_prompt = f"""
 You are a helpful assistant who updates the user with the latest news in the sports world. Focus on extracting the most important information and key points.Give output in markdown format. only include the genereated content in the markdown format, do not include any other text or comments.
