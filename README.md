@@ -30,19 +30,6 @@ A Python project that scrapes the latest sports news articles, summarizes them u
    GEMINI_API_KEY=your_gemini_api_key_here
    ```
 
-## Usage
-1. **Scrape and Summarize News:**
-   ```sh
-   python one.py
-   ```
-   This will scrape articles, generate a markdown summary, and save it as `summary.md`.
-
-2. **View the Summary in Streamlit:**
-   ```sh
-   streamlit run app.py
-   ```
-   This will open a browser window displaying the formatted summary.
-
 ## Project Structure
 ```
 SportsNewsSummarizer/
@@ -64,5 +51,3 @@ MIT License
 - [Playwright](https://playwright.dev/python/)
 
 ---
-
-Feel free to contribute or open issues for improvements!
