@@ -3,6 +3,8 @@ import os
 from bs4 import BeautifulSoup
 import time
 import csv
+import sys
+import asyncio
 
 import google.generativeai as genai 
 from typing import List, Dict, Optional
@@ -85,7 +87,7 @@ def scrape_article(page, url):
         
         return {
             'url': url,
-            'title': extract_single_field(soup, ['h1', 'h1[class*="headline]']),
+            'title': extract_single_field(soup, ['h1', 'h1[class*="headline"]']),
             'author': extract_single_field(soup, ['.author', '[class*="author"]', '.byline']),
             'date': extract_single_field(soup, ['.date', '[class*="date"]', 'time', '[datetime]']),
             'content': extract_content(soup, ['.article-content', '.article-body', '[class*="content"]', 'article p', 'main p', 'p']),
@@ -119,9 +121,16 @@ def save_to_csv(articles, filename='scraped_articles.csv'):
 
 def scrape_sportingnews():
     """Main scraping function"""
+    # Ensure proper event loop policy on Windows for subprocess support used by Playwright
+    if sys.platform.startswith('win'):
+        try:
+            asyncio.set_event_loop_policy(asyncio.WindowsProactorEventLoopPolicy())
+        except Exception:
+            pass
+
     with sync_playwright() as p:
         try:
-            browser = p.chromium.launch(headless=False, slow_mo=2000) 
+            browser = p.chromium.launch(headless=True, slow_mo=0)
             page = browser.new_page()
             time.sleep(1)  
             
